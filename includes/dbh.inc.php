@@ -2,8 +2,8 @@
 
 $host = "localhost";
 $dbname = "myfirstdatabase";
-$dbusername = "myuser";
-$dbpassword = "mypassword";
+$dbusername = "******";
+$dbpassword = "$$$$$$$$";
 
 // try catch block for connecting to the database
 try {
