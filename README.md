@@ -6,7 +6,6 @@ This project is a basic signup page built using **PHP** and **MySQL**. It was cr
 - ✅ User signup with form validation
 - 🗄️ Integration with a MySQL database to store user data
 - 🔒 Error handling for invalid or duplicate entries
-- 🎯 Secure password storage (e.g., hashing)
 
 ## 🛠️ Setup
 Follow these steps to set up the project on your local environment:
