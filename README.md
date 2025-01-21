@@ -12,4 +12,4 @@ Follow these steps to set up the project on your local environment:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/signup-project.git
+   git clone https://github.com/alexander47777/signup-project.git
